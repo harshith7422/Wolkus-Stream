@@ -1,7 +1,3 @@
-Certainly! Here's a sample README file for your React application that includes steps and processes for getting started:
-
----
-
 # Movie Library App
 
 Welcome to the Movie Library App! This application allows users to manage and view their favorite movies in public and private lists.
